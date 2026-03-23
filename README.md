@@ -41,7 +41,6 @@ Expected Graduation: **2028**
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
 </p>
 
@@ -51,8 +50,6 @@ Expected Graduation: **2028**
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
@@ -66,19 +63,14 @@ Expected Graduation: **2028**
 > - Won the **"Lucid Dreamer"** category award
 
 ### RentFinder — Rental Property Search Platform [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-2E2E2E?logo=github&logoColor=white)](https://github.com/paulsAbyss/setesting)
-> - Full-stack rental search app with a **Spring Boot** backend (JPA, PostgreSQL, Spring Security) and a **Next.js/React** frontend
-> - Automated web scraping with **Cheerio** to aggregate rental listings from multiple sources
-> - Deployed on **Render** for live access
+> - Full-stack **Next.js 14** app with server-side rendering, API routes, and **PostgreSQL** database
+> - Scrapes Vancouver rental listings from Craigslist using **Cheerio** and serves them through a responsive **Bootstrap 5** UI with dark/light mode
+> - Deployed on **Vercel** with database hosted on **Render**
 
-### CMPT 276 Flashcard App [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-2E2E2E?logo=github&logoColor=white)](https://github.com/paulsAbyss)
-> - Study tool built with **Java Spring Boot**, featuring user authentication via **Spring Security**
-> - Persistent storage with **JPA** (H2 for dev, PostgreSQL for production) and **Thymeleaf** templating
-> - Includes an admin panel for managing flashcard sets and user accounts
-
-### hbAutomation — Schedule Automation Tool
-> - Automated Homebase schedule scraping using **Puppeteer** in stealth mode
-> - Built an **Express** web UI for viewing and exporting schedules with CSV parsing
-> - Eliminates repetitive manual schedule checking
+### StudBuds — CMPT 276 Group Project *Currently Building* [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-2E2E2E?logo=github&logoColor=white)](https://github.com/waz604/276-project)
+> - Collaborative study platform with active recall flashcards, quizzes, and timed challenge modes
+> - Built with **Java 21**, **Spring Boot**, **PostgreSQL**, and **Thymeleaf** — containerized with **Docker**
+> - Features gamification (XP, streaks, badges), performance tracking, and group study with built-in chat
 
 ### Nail Design Webpage — *Currently Building*
 > - Designing and developing a showcase webpage for nail art and design
