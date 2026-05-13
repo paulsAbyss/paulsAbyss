@@ -62,11 +62,6 @@ Expected Graduation: **2028**
 > - Developed collaboratively at **SystemsHacks 2025: DreamHacks** using HTML, CSS, and JavaScript
 > - Won the **"Lucid Dreamer"** category award
 
-### RentFinder — Rental Property Search Platform [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-2E2E2E?logo=github&logoColor=white)](https://github.com/paulsAbyss/setesting)
-> - Full-stack **Next.js 14** app with server-side rendering, API routes, and **PostgreSQL** database
-> - Scrapes Vancouver rental listings from Craigslist using **Cheerio** and serves them through a responsive **Bootstrap 5** UI with dark/light mode
-> - Deployed on **Vercel** with database hosted on **Render**
-
 ### StudBuds — CMPT 276 Group Project *Currently Building* [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-2E2E2E?logo=github&logoColor=white)](https://github.com/waz604/276-project)
 > - Collaborative study platform with active recall flashcards, quizzes, and timed challenge modes
 > - Built with **Java 21**, **Spring Boot**, **PostgreSQL**, and **Thymeleaf** — containerized with **Docker**
